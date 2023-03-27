@@ -20,9 +20,9 @@
 <br>
 
 <p align="center">
-  <img alt="Projeto_3" src="./public/img/articles.png" height="300px" width="55%">
   <img alt="Projeto_1" src="./public/img/home.png" height="300px" width="55%">
-  <img alt="Projeto_2" src="./public/img/articles-create" height="300px" width="55%">
+  <img alt="Projeto_3" src="./public/img/articles.png" height="300px" width="55%">
+  <img alt="Projeto_2" src="./public/img/articles-create.png" height="300px" width="55%">
   
 </p>
 
